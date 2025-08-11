@@ -3,6 +3,6 @@
 
 
 -  I’m currently learning Git and opensource
--  I’m know Python, HTML , CSS
+-  I know Python, HTML , CSS
 -  Learning JS
 -  Pronouns: He/Him
